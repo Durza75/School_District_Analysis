@@ -6,7 +6,7 @@
 
 The purpose of this project is to prepare all standardized test data for analysis, reporting, and presentation to provide insights about performance trends and patterns. This project analyzes data on student funding, students' standardized test scores, and showcases trends in school performance.  
 
-Previously, the data showed that the passing percentage of students in Thomas High School were above average, especially those in the 9th grade. It had been discovered however, that 9th grade test scores had probably been tampered with and inflated. This project aims to correct this error by replacing the test scores for 9th graders at Thomas High School and replacing them with NaNs.
+Previously, the data showed that the passing percentage of students in Thomas High School were above average, especially those in the 9th grade. It had been discovered however that 9th grade test scores had probably been tampered with and inflated. This project aims to correct this error by replacing the test scores for 9th graders at Thomas High School and replacing them with NaNs.
 
 ## Results 
 
@@ -32,7 +32,7 @@ The overall passing percentage of Thomas High School decreased from approximatel
 ![](Resources/top_5_schools_updated.png)  
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?  
 
-Thomas High School is shown to have a drop in performance but when compared to other schools it does not have a huge impact in its standings, since it is still ranked number two among the top 5 schools ranked in the district.
+Thomas High School is shown to have a drop in performance but when compared to other schools, it does not have a huge impact in its standings, since it is still ranked number two among the top 5 schools ranked in the district, as shown above.
 
 - How does replacing the ninth-grade scores affect the following:  
 
@@ -54,7 +54,7 @@ Thomas High School is shown to have a drop in performance but when compared to o
 
     ![](Resources/scores_by_school_type.png)
 
-Thomas High School is a charter school with 1635 students and a per student budget of $638. It is a medium-sized chartered school in the $630 - $644 spending range. Due to the academic dishonesty displayed by its ninth graders, it brings down passing reading and math scores for the those three categories of schools.
+Thomas High School is a charter school with 1,635 students and a per student budget of $638. It is a medium-sized chartered school in the $630 - $644 spending range. Due to the academic dishonesty displayed by its ninth graders, it slightly brings down passing reading and math scores for the those three categories of schools.
 
 
 ## Summary
